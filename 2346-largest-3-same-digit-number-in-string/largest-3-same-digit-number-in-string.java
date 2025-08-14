@@ -3,7 +3,7 @@ class Solution {
         String result ="";
 
         int count=1;
-        char value = '\u0000';
+       
         int number =0;
         int max=0;
 
