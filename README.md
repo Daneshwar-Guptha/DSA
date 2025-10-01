@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Daneshwar-Guptha/DSA/tree/master/0018-4sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Daneshwar-Guptha/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Daneshwar-Guptha/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
