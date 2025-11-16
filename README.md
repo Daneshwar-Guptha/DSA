@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Daneshwar-Guptha/DSA/tree/master/0175-combine-two-tables) |
+| [1179-game-play-analysis-i](https://github.com/Daneshwar-Guptha/DSA/tree/master/1179-game-play-analysis-i) |
 ## Linked List
 |  |
 | ------- |
