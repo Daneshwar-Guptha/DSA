@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Daneshwar-Guptha/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Daneshwar-Guptha/DSA/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/Daneshwar-Guptha/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Daneshwar-Guptha/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Daneshwar-Guptha/DSA/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/Daneshwar-Guptha/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Daneshwar-Guptha/DSA/tree/master/0118-pascals-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Daneshwar-Guptha/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
