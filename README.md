@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Daneshwar-Guptha/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Daneshwar-Guptha/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Daneshwar-Guptha/DSA/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,9 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Daneshwar-Guptha/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Daneshwar-Guptha/DSA/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Daneshwar-Guptha/DSA/tree/master/0035-search-insert-position) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Daneshwar-Guptha/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
