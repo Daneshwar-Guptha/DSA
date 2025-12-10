@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Daneshwar-Guptha/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Daneshwar-Guptha/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Daneshwar-Guptha/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Daneshwar-Guptha/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Daneshwar-Guptha/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Daneshwar-Guptha/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Daneshwar-Guptha/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Daneshwar-Guptha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Daneshwar-Guptha/DSA/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Daneshwar-Guptha/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
