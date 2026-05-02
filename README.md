@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Daneshwar-Guptha/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Daneshwar-Guptha/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Daneshwar-Guptha/DSA/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Daneshwar-Guptha/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Daneshwar-Guptha/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daneshwar-Guptha/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Daneshwar-Guptha/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Daneshwar-Guptha/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/Daneshwar-Guptha/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Daneshwar-Guptha/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Daneshwar-Guptha/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Math
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Daneshwar-Guptha/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Daneshwar-Guptha/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
