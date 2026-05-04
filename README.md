@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Daneshwar-Guptha/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Daneshwar-Guptha/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Daneshwar-Guptha/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Daneshwar-Guptha/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Daneshwar-Guptha/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Daneshwar-Guptha/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Daneshwar-Guptha/DSA/tree/master/0118-pascals-triangle) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Daneshwar-Guptha/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Daneshwar-Guptha/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Daneshwar-Guptha/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Daneshwar-Guptha/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Daneshwar-Guptha/DSA/tree/master/0069-sqrtx) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Daneshwar-Guptha/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Daneshwar-Guptha/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
